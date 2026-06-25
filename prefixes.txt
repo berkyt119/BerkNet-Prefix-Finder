@@ -1,11 +1,33 @@
 # version=1
-# generated_at=2026-06-25T19:46:01Z
+# generated_at=2026-06-25T19:48:44Z
 # prefix_status_filter=all
 
 [group]
 id=
 name=ungrouped
 description=Services without assigned group
+
+[service]
+id=41
+name=CHESS.COM
+display_name=CHESS.COM
+root_domain=chess.com
+group=ungrouped
+104.16.132.229/32
+104.16.133.229/32
+104.17.126.52/32
+104.17.165.82/32
+104.18.137.67/32
+104.18.138.67/32
+104.18.139.67/32
+104.18.140.67/32
+104.18.141.67/32
+104.18.32.137/32
+104.18.86.42/32
+104.18.87.42/32
+172.64.155.119/32
+8.47.69.0/32
+8.6.112.0/32
 
 [service]
 id=40
