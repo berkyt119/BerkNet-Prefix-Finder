@@ -1,0 +1,36 @@
+{
+  "geoip": {
+    "index": "geoip/index.json",
+    "prefixes": 769288,
+    "services": 248
+  },
+  "groups": [
+    {
+      "file": "groups/ai.json.gz",
+      "id": 11,
+      "name": "AI",
+      "prefixes": 1362,
+      "services": 6,
+      "sha256": "34ccfb352d08e1186ae0eb11271c955416296056eef218e73c7f102fac074cd8"
+    },
+    {
+      "file": "groups/socials.json.gz",
+      "id": 13,
+      "name": "Socials",
+      "prefixes": 5853,
+      "services": 5,
+      "sha256": "618ce7ebef8b7477176c37393ab21a97fd2b9a8b2f9d574588e71d64a5d02a3a"
+    },
+    {
+      "file": "groups/ungrouped.json.gz",
+      "id": null,
+      "name": "ungrouped",
+      "prefixes": 5608,
+      "services": 6,
+      "sha256": "d0ae5ce146990e771cc28cb6fe1498902f5e43b06076dcf61ff6dc2803d62c93"
+    }
+  ],
+  "prefix_status_filter": "all",
+  "source": "Prefix Finder Admin",
+  "version": 2
+}
