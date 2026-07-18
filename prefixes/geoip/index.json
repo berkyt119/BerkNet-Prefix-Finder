@@ -9,32 +9,32 @@
       "file": "geoip-ad.json.gz",
       "id": 51,
       "name": "geoip-ad",
-      "prefixes": 249,
-      "sha256": "7b9e3464a5ea20a0125b2523dd5e9f8eebfef4d7e7d6213d46a198a0668c2732"
+      "prefixes": 250,
+      "sha256": "dee8838f026763335bb56631a37874977ce5128f81c40c4890c4e59591ecefca"
     },
     {
       "display_name": "GeoIP AE - United Arab Emirates",
       "file": "geoip-ae.json.gz",
       "id": 52,
       "name": "geoip-ae",
-      "prefixes": 3659,
-      "sha256": "392e3898c49db5ef40dab14f76f490d17bd73b79adebfa4174cdb97e61ad54ad"
+      "prefixes": 3527,
+      "sha256": "1052fc9c4390f088500a19e47626e579397e8e8ef8a2eb61c72a14409632c71b"
     },
     {
       "display_name": "GeoIP AF - Afghanistan",
       "file": "geoip-af.json.gz",
       "id": 53,
       "name": "geoip-af",
-      "prefixes": 295,
-      "sha256": "64d621deffdeb02da95a253aa46c1e2311a58bcec4b1c41cdfdadb81fedde13c"
+      "prefixes": 293,
+      "sha256": "046d45cba2177381961ef71d3c1de6198798c766939e86bf0b775ed38c1e738c"
     },
     {
       "display_name": "GeoIP AG - Antigua and Barbuda",
       "file": "geoip-ag.json.gz",
       "id": 54,
       "name": "geoip-ag",
-      "prefixes": 143,
-      "sha256": "3c8a16b3abdb47e656f65f0cc74a99c5153e416b6b41fdd5f3c7125d7277efd4"
+      "prefixes": 145,
+      "sha256": "a0d5b5d49dc31b81b3f047250b59481f1b66fd2e78e67d2a9e30a23c95beb18a"
     },
     {
       "display_name": "GeoIP AI - Anguilla",
@@ -42,31 +42,31 @@
       "id": 55,
       "name": "geoip-ai",
       "prefixes": 64,
-      "sha256": "564514bbbf23d6f25ead148e1220bfd8f91fa5749e663d4a3ecc397f21368136"
+      "sha256": "de98bc607140432543433d0e880f76a5a6d93887fd2c568542ae894ddab6eb9b"
     },
     {
       "display_name": "GeoIP AL - Albania",
       "file": "geoip-al.json.gz",
       "id": 56,
       "name": "geoip-al",
-      "prefixes": 877,
-      "sha256": "d7650181aa3f0f00d5d6b89eb86ee08411c1a861e91635f04db10d3f1a6b01d0"
+      "prefixes": 887,
+      "sha256": "a7d0b633d251a22f445e3a496e840f9be2525eb6709d2eb59fcb9c52422980e6"
     },
     {
       "display_name": "GeoIP AM - Armenia",
       "file": "geoip-am.json.gz",
       "id": 57,
       "name": "geoip-am",
-      "prefixes": 396,
-      "sha256": "3d7c0a4ced9efd01b5147b0e56106032e122747c40181dc9e2b2cd75bbadfb40"
+      "prefixes": 394,
+      "sha256": "4ee6158f2552d54c0d4927115ee45445b536730020e542f57b1c8e76c5d69758"
     },
     {
       "display_name": "GeoIP AO - Angola",
       "file": "geoip-ao.json.gz",
       "id": 58,
       "name": "geoip-ao",
-      "prefixes": 652,
-      "sha256": "fc43a11210aa10af085077988b5f036db19d9716dd635271eedc1cd78fbe2aeb"
+      "prefixes": 655,
+      "sha256": "8b5d222b0010229dce28ea0be602b1c486d4b3b7131a5f6e08e4b65fbfcf547c"
     },
     {
       "display_name": "GeoIP AQ - Antarctica",
@@ -81,32 +81,32 @@
       "file": "geoip-ar.json.gz",
       "id": 60,
       "name": "geoip-ar",
-      "prefixes": 5133,
-      "sha256": "5b43f8e55f12cf8dc891934e9d21195f14d074c04b3869b7a1719748bc4778f9"
+      "prefixes": 5146,
+      "sha256": "2ab2e92ceefd817650df39068f993af98ca84be24bd740703bf23282768c3e24"
     },
     {
       "display_name": "GeoIP AS - American Samoa",
       "file": "geoip-as.json.gz",
       "id": 61,
       "name": "geoip-as",
-      "prefixes": 89,
-      "sha256": "e2ebe55f91a35aa8ee855e5844e8cfc3ccb5d11e7556618f83aafe37c24b9626"
+      "prefixes": 90,
+      "sha256": "a1007b8727db1c6edafd5554939073269684486a9559d6ffc4e3db785b380666"
     },
     {
       "display_name": "GeoIP AT - Austria",
       "file": "geoip-at.json.gz",
       "id": 62,
       "name": "geoip-at",
-      "prefixes": 6318,
-      "sha256": "659d4e380213d29cbb927dbc427b6019b5824281d7dfbdcb5784656d6e77490f"
+      "prefixes": 6299,
+      "sha256": "8f9929f2803ca6307701ae16f06c9b08e89a6fae5f0beb6782659741ca7cb66c"
     },
     {
       "display_name": "GeoIP AU - Australia",
       "file": "geoip-au.json.gz",
       "id": 63,
       "name": "geoip-au",
-      "prefixes": 13929,
-      "sha256": "fe775655af8e78da108d064f3434c14b6ae3d4c50ca17d8eea1b205858226455"
+      "prefixes": 13913,
+      "sha256": "99d68e034ae3e1a3a4d03564a5fa2443ea9df3fe899cfd173f498c9e0af59c09"
     },
     {
       "display_name": "GeoIP AW - Aruba",
@@ -130,39 +130,39 @@
       "id": 66,
       "name": "geoip-az",
       "prefixes": 490,
-      "sha256": "8da381384f15b53c81e302e0787988810815d362fad4add6227b9a7fd54501b8"
+      "sha256": "26915cf434c76f052f48eea5ef5830006c7ce11e9ab2fcfa06da462e9aa2306d"
     },
     {
       "display_name": "GeoIP BA - Bosnia and Herzegovina",
       "file": "geoip-ba.json.gz",
       "id": 67,
       "name": "geoip-ba",
-      "prefixes": 452,
-      "sha256": "880ea67fd661f921a5d0b180feed6b5ac40a48ff3d2b595ee30acdb6233f0964"
+      "prefixes": 441,
+      "sha256": "752cf05c9c02e570bc5f1b49985c37646547ceff81558fcdd0070d855812f185"
     },
     {
       "display_name": "GeoIP BB - Barbados",
       "file": "geoip-bb.json.gz",
       "id": 68,
       "name": "geoip-bb",
-      "prefixes": 223,
-      "sha256": "ae820273623bf53724f2616d4ab8a669d34b0062b401ce4e0ac1dde4ae9dc2e5"
+      "prefixes": 224,
+      "sha256": "a1bfd7a9df89a9491c359cd9f260ff792999795cfba8730cb58a5dea1b45c380"
     },
     {
       "display_name": "GeoIP BD - Bangladesh",
       "file": "geoip-bd.json.gz",
       "id": 69,
       "name": "geoip-bd",
-      "prefixes": 2743,
-      "sha256": "0f6e701ff7978e1172b7391305814c37f31bd0ac8fd77cb07373e68fc2a45915"
+      "prefixes": 2749,
+      "sha256": "58849faf51dafc7df75e94a9b59845b70df1734e054f6ffc2f2d656d0d81014d"
     },
     {
       "display_name": "GeoIP BE - Belgium",
       "file": "geoip-be.json.gz",
       "id": 70,
       "name": "geoip-be",
-      "prefixes": 11940,
-      "sha256": "ba6363264282eb24060b8534117832622c73025dc98c906638067c1a7f90f89c"
+      "prefixes": 11947,
+      "sha256": "8c22e6b8d5b617e121a24a537b76b82541b34abb7ea1fb1f5222f6606d2690e5"
     },
     {
       "display_name": "GeoIP BF - Burkina Faso",
@@ -177,16 +177,16 @@
       "file": "geoip-bg.json.gz",
       "id": 72,
       "name": "geoip-bg",
-      "prefixes": 2698,
-      "sha256": "37cac0f3cdf97de143ad07df177bb16b82572bec21c18e20c46fa8c9e0751d4c"
+      "prefixes": 2708,
+      "sha256": "13e85f8b5425564f1ec933512b4e14891a71cf52ed795940004fe6b9d959ed21"
     },
     {
       "display_name": "GeoIP BH - Bahrain",
       "file": "geoip-bh.json.gz",
       "id": 73,
       "name": "geoip-bh",
-      "prefixes": 336,
-      "sha256": "0be411c608dc7946507b8d139c6fed3c2e606302532974f2e2977c4ae7abdf4e"
+      "prefixes": 330,
+      "sha256": "1c8a2ce3a3682075e3a4d8fbbbdd16c3a78437f178aaef3aa3257c6ca5b9f041"
     },
     {
       "display_name": "GeoIP BI - Burundi",
@@ -202,7 +202,7 @@
       "id": 75,
       "name": "geoip-bj",
       "prefixes": 102,
-      "sha256": "7e89e4d02f345ed2ac1a102cdf4fc595588c9cb9ab3da01f50089f2b6b95ad40"
+      "sha256": "66379c53005a53457a7a2307aa57c736ad05ecdbbf55cef09df0c81f2150aef2"
     },
     {
       "display_name": "GeoIP BL - Saint Barthelemy",
@@ -218,15 +218,15 @@
       "id": 77,
       "name": "geoip-bm",
       "prefixes": 164,
-      "sha256": "8ad4ccd8841074dea5fac36824a4f7a04edc8c0ebb310c357566431632072592"
+      "sha256": "3a0cb63f40ed18c23d4611341809043e30a4ed4de27edb9cb58b27fc0feb0ee9"
     },
     {
       "display_name": "GeoIP BN - Brunei",
       "file": "geoip-bn.json.gz",
       "id": 78,
       "name": "geoip-bn",
-      "prefixes": 126,
-      "sha256": "63d25a2a0f52ae74b34a6905a9820cadb0361c476d20a055045451d6368a93bc"
+      "prefixes": 125,
+      "sha256": "f13789a57a30512de970095f17d5924165ccab774bda3f57d3bc532d0b251d91"
     },
     {
       "display_name": "GeoIP BO - Bolivia",
@@ -234,7 +234,7 @@
       "id": 79,
       "name": "geoip-bo",
       "prefixes": 563,
-      "sha256": "ce3484ed599e96ef18d8bd5760ef2783ff5ce8cff50004c92d969dc78e10ea9f"
+      "sha256": "de5deaa71a39efe81fe0b2af75e51d19085330f8b13d49ff52e503254bc529cf"
     },
     {
       "display_name": "GeoIP BQ - Bonaire, Saint Eustatius and Saba",
@@ -242,23 +242,23 @@
       "id": 80,
       "name": "geoip-bq",
       "prefixes": 48,
-      "sha256": "b2d9efa623566d8cc5ff92d8e6819f29252aaee242277e4f8f089819f99206ef"
+      "sha256": "55360141f5b0c6bb0e138c6286e0a438b49262268849d1527905e35e762d0b01"
     },
     {
       "display_name": "GeoIP BR - Brazil",
       "file": "geoip-br.json.gz",
       "id": 81,
       "name": "geoip-br",
-      "prefixes": 11782,
-      "sha256": "fd765a59bcae730486d65759513de61b4749190f68050306e06e2932cede2657"
+      "prefixes": 11768,
+      "sha256": "cda2798ccb127c08394c4264a4d7ab04068cac379d16b5b9c45ac4e13be74a6c"
     },
     {
       "display_name": "GeoIP BS - Bahamas",
       "file": "geoip-bs.json.gz",
       "id": 82,
       "name": "geoip-bs",
-      "prefixes": 181,
-      "sha256": "e47af47c3fefac9ebb1c55ae824abc8bfbaf04406f8780e9f2de6928a949d5ff"
+      "prefixes": 187,
+      "sha256": "bd9d0779cec2dc2d4f8de231d7446dc874559d333f05f890536d504825b862da"
     },
     {
       "display_name": "GeoIP BT - Bhutan",
@@ -273,8 +273,8 @@
       "file": "geoip-bw.json.gz",
       "id": 84,
       "name": "geoip-bw",
-      "prefixes": 196,
-      "sha256": "5d266619fc0047184a91971d1174724fcd479b6d419b5ded652acb695e31e10b"
+      "prefixes": 193,
+      "sha256": "bae2c7b748c5846015c6906f322db366eb230bc8239b009d54767f5ed8513a3d"
     },
     {
       "display_name": "GeoIP BY - Belarus",
@@ -289,16 +289,16 @@
       "file": "geoip-bz.json.gz",
       "id": 86,
       "name": "geoip-bz",
-      "prefixes": 303,
-      "sha256": "173926237114a14e6d6b7499a57908a1fe154ad78b75b975434b3dbf4e05a56f"
+      "prefixes": 304,
+      "sha256": "247aa379757781a5e751b1fabf3f22e34397333fe1bf5afcdd1e00f11a6f1394"
     },
     {
       "display_name": "GeoIP CA - Canada",
       "file": "geoip-ca.json.gz",
       "id": 87,
       "name": "geoip-ca",
-      "prefixes": 21398,
-      "sha256": "6f0f1e6f4186d6eef97a99d9da608fa004f04644b45647a562acbb3845e28d1f"
+      "prefixes": 21412,
+      "sha256": "271b8c1c7f54c9d0ae1cb3068eebccc5a76eebdc2907d816c706e19d59931a2c"
     },
     {
       "display_name": "GeoIP CC - Cocos Islands",
@@ -313,8 +313,8 @@
       "file": "geoip-cd.json.gz",
       "id": 89,
       "name": "geoip-cd",
-      "prefixes": 325,
-      "sha256": "3ac5e465768ec2a47cb709ec43b7a6194bc64f6178197cf25ece70ad95567a66"
+      "prefixes": 326,
+      "sha256": "4774149f3946ed0729d5d4e8a3d8663d376268cca4ae612cb6cbf584e4b0e190"
     },
     {
       "display_name": "GeoIP CF - Central African Republic",
@@ -337,16 +337,16 @@
       "file": "geoip-ch.json.gz",
       "id": 92,
       "name": "geoip-ch",
-      "prefixes": 8923,
-      "sha256": "8cd90ecaf48ab12da90f84a52b1a40672199235bd7e809333a8354028906f294"
+      "prefixes": 8946,
+      "sha256": "6428edfec55b95d8031c32bd73275201a9d4af3d9db070a9e8a5ef8ff5ff6b12"
     },
     {
       "display_name": "GeoIP CI - Ivory Coast",
       "file": "geoip-ci.json.gz",
       "id": 93,
       "name": "geoip-ci",
-      "prefixes": 403,
-      "sha256": "217520fd607781f82fd4ed50d4377b2ae5385af1b61f839065f5411173bfc46f"
+      "prefixes": 402,
+      "sha256": "61d0f519fb049970fa8806c00a4a93277014315ef49bfdb2420d808b325fedff"
     },
     {
       "display_name": "GeoIP CK - Cook Islands",
@@ -361,8 +361,8 @@
       "file": "geoip-cl.json.gz",
       "id": 95,
       "name": "geoip-cl",
-      "prefixes": 2476,
-      "sha256": "4c8b5bd709d20af79c8886d9493101912f825e5b4468db3b059c933d400ff33b"
+      "prefixes": 2493,
+      "sha256": "a230090c1b11ff2b4d835b3773d2c2607a12a3cd710b00b20218a7366087ee0d"
     },
     {
       "display_name": "GeoIP CM - Cameroon",
@@ -378,23 +378,23 @@
       "id": 97,
       "name": "geoip-cn",
       "prefixes": 7964,
-      "sha256": "ad592dabe3aa72ceda3e67745b75382393ad25abc8be540a59d078cf6e4c8b3d"
+      "sha256": "c9821d14504c73b567247fe34dca2d85eb5bc65480a87f19b964b545e4ce5eec"
     },
     {
       "display_name": "GeoIP CO - Colombia",
       "file": "geoip-co.json.gz",
       "id": 98,
       "name": "geoip-co",
-      "prefixes": 5234,
-      "sha256": "5dc263943f5c6791216275d0ec5a9182e64f453f83f6674c3566cdb77c4bb951"
+      "prefixes": 5250,
+      "sha256": "5a66cd8353a4273381375fbba8bb0d14e19f990f7cac1b8d0bf0e99afe61ec73"
     },
     {
       "display_name": "GeoIP CR - Costa Rica",
       "file": "geoip-cr.json.gz",
       "id": 99,
       "name": "geoip-cr",
-      "prefixes": 827,
-      "sha256": "0c9ab6f27da2128d00b340eeea2579cce2969f6ea3ba2fec293a1ef54c2e38a7"
+      "prefixes": 834,
+      "sha256": "6ffe6ce216829b7dcd07dfb91009dc8b3053e22ec0b1f3b9a8c98090aa62ddff"
     },
     {
       "display_name": "GeoIP CU - Cuba",
@@ -433,24 +433,24 @@
       "file": "geoip-cy.json.gz",
       "id": 104,
       "name": "geoip-cy",
-      "prefixes": 1021,
-      "sha256": "d4a65f35f665591ac21e102a73e9d5dc232ac1c9b8336747fe1a8695fd194f42"
+      "prefixes": 1050,
+      "sha256": "c3dcf27dccb3350bc617054b22c1629c36c93803179276723de6df55a6baba3a"
     },
     {
       "display_name": "GeoIP CZ - Czechia",
       "file": "geoip-cz.json.gz",
       "id": 105,
       "name": "geoip-cz",
-      "prefixes": 5201,
-      "sha256": "32632fa2aadeb22d73c2eba7f9ca099b3972e8e1adebc63beda7c4791723c699"
+      "prefixes": 5231,
+      "sha256": "94ff83f54549dc586c3bc7b80a18db0c102339554e8328ae1f3fbe0b02c27621"
     },
     {
       "display_name": "GeoIP DE - Germany",
       "file": "geoip-de.json.gz",
       "id": 106,
       "name": "geoip-de",
-      "prefixes": 51277,
-      "sha256": "a7ce4b4f153f49718c95145dfa36f6e69318bfc018e2be45b2e70c063e084b10"
+      "prefixes": 51304,
+      "sha256": "c3f8a6dff5904b4393917ba6fa86a6030f9f0f61c354de6de9d547eb67aa5be9"
     },
     {
       "display_name": "GeoIP DJ - Djibouti",
@@ -465,8 +465,8 @@
       "file": "geoip-dk.json.gz",
       "id": 108,
       "name": "geoip-dk",
-      "prefixes": 4977,
-      "sha256": "eefa593cebba4815e242d5868045d1418d68659ba5a181f027d51148e5d7ed36"
+      "prefixes": 4994,
+      "sha256": "e9a47604986680fc60fab38a607969812a4f70d091a280e2d01edd8a35d38126"
     },
     {
       "display_name": "GeoIP DM - Dominica",
@@ -474,15 +474,15 @@
       "id": 109,
       "name": "geoip-dm",
       "prefixes": 103,
-      "sha256": "c505fa584e97b95239382d671e26446a3f6a3fc404c03fdc16cf86c13dabfeaf"
+      "sha256": "e97ffb7c5aad9f65935aa4c0c5d51c1aab7f38d764910ba3e73dd8f8d32a9ea3"
     },
     {
       "display_name": "GeoIP DO - Dominican Republic",
       "file": "geoip-do.json.gz",
       "id": 110,
       "name": "geoip-do",
-      "prefixes": 873,
-      "sha256": "6d99f319661f838533328ce87a3e806035ad8a336e762262e6441e380a46dbf6"
+      "prefixes": 875,
+      "sha256": "7ff49c9955d2a83ba2fbb3f23dbaa902742e31b4bfdcfc3779ba4cced296c5e1"
     },
     {
       "display_name": "GeoIP DZ - Algeria",
@@ -497,16 +497,16 @@
       "file": "geoip-ec.json.gz",
       "id": 112,
       "name": "geoip-ec",
-      "prefixes": 1554,
-      "sha256": "ce57aec32e361d099a529e12a44a2417cd416f769f6f7d2304c12938731aa55b"
+      "prefixes": 1565,
+      "sha256": "3fb0762e40c0e330214332be9c526716c86f80346536a91c48383e7e5f509a4f"
     },
     {
       "display_name": "GeoIP EE - Estonia",
       "file": "geoip-ee.json.gz",
       "id": 113,
       "name": "geoip-ee",
-      "prefixes": 1427,
-      "sha256": "e1f1daa4f7e0f733436274d32987b07cdf8694813af52def8a849e1fbf756d6c"
+      "prefixes": 1443,
+      "sha256": "5cb5d34635d9f425d5d342a7180995aaac9fa01d41698bd991cf9a16cb253fc3"
     },
     {
       "display_name": "GeoIP EG - Egypt",
@@ -514,7 +514,7 @@
       "id": 114,
       "name": "geoip-eg",
       "prefixes": 845,
-      "sha256": "0d26a30701cca586c68bcb364842a5ffa3be353bf5cc9287e2f87faef863ea14"
+      "sha256": "382583a028d76dcdb74136903b2c145fdc46523e7389ab209e655fc4b50ed166"
     },
     {
       "display_name": "GeoIP EH - Western Sahara",
@@ -530,39 +530,39 @@
       "id": 116,
       "name": "geoip-er",
       "prefixes": 55,
-      "sha256": "835f9d410f5667fd32d46c467e86e8f245c77e73a42b7c4358ea2d33aa2e3331"
+      "sha256": "db2102de37d665e27312b8e2cdf348851d3e14a9b9bdf586322731a6a9b387f3"
     },
     {
       "display_name": "GeoIP ES - Spain",
       "file": "geoip-es.json.gz",
       "id": 117,
       "name": "geoip-es",
-      "prefixes": 18965,
-      "sha256": "3b70aa4a4421e0da5ffe41a4231ac9bb89090d142416ef61e6fe82b7f780ea7c"
+      "prefixes": 18968,
+      "sha256": "749c2209715dd1f9bc792e097a028ce92f4fcac239864a39d943f39c0a4d3628"
     },
     {
       "display_name": "GeoIP ET - Ethiopia",
       "file": "geoip-et.json.gz",
       "id": 118,
       "name": "geoip-et",
-      "prefixes": 114,
-      "sha256": "4ff0b30c0939ee4d629d4f20ffbb698b8f2f6b2aacb12820818392bc1f33aedd"
+      "prefixes": 115,
+      "sha256": "b5bb84c5a8d12ca721e3231089e03ba391eb0683b344a88dfb5fa92ddb5df59a"
     },
     {
       "display_name": "GeoIP FI - Finland",
       "file": "geoip-fi.json.gz",
       "id": 119,
       "name": "geoip-fi",
-      "prefixes": 8564,
-      "sha256": "71a06b94db90c82659988df33b231ff543fe529ecfae32fb7ca40b8d153088ef"
+      "prefixes": 8550,
+      "sha256": "27ef7f396404062d01079d37d394a44cb52a8effc76c85441f983942f6867e21"
     },
     {
       "display_name": "GeoIP FJ - Fiji",
       "file": "geoip-fj.json.gz",
       "id": 120,
       "name": "geoip-fj",
-      "prefixes": 124,
-      "sha256": "8470ff226ee7a3424411164238c58ee3e584efd8ec34cbd3aafda0ab80e2b759"
+      "prefixes": 123,
+      "sha256": "4bc8bb3c17ae0c0fc1b553288eba8324136aab5dea92c9bb92b31beb01feba65"
     },
     {
       "display_name": "GeoIP FK - Falkland Islands",
@@ -578,7 +578,7 @@
       "id": 122,
       "name": "geoip-fm",
       "prefixes": 74,
-      "sha256": "62b2868fabf3fb1cd8ddc1d9095a737a02975f78fa4f93fa873bdc0c127523ea"
+      "sha256": "b15a397309c8ceca4b7bc7fe083515ca5920c41d4799471d715b46c5f0c18222"
     },
     {
       "display_name": "GeoIP FO - Faroe Islands",
@@ -593,24 +593,24 @@
       "file": "geoip-fr.json.gz",
       "id": 124,
       "name": "geoip-fr",
-      "prefixes": 66142,
-      "sha256": "df282d6266fa424042438b61cd2cbcd1ad1cf0c6b74213733834382deaf7f21b"
+      "prefixes": 66719,
+      "sha256": "da8df1096f03f378feb14310f3179ca518ec9625c645b5adcf19911bdc33954f"
     },
     {
       "display_name": "GeoIP GA - Gabon",
       "file": "geoip-ga.json.gz",
       "id": 125,
       "name": "geoip-ga",
-      "prefixes": 133,
-      "sha256": "e131fd4c06fd76f85834b5a99fcc728d3e599b9064c554d04dc9a92462096dcd"
+      "prefixes": 137,
+      "sha256": "66c30d7dba77fe899d2e0f55de81d5d1d09ab07daff5aa410d2d191cb329e180"
     },
     {
       "display_name": "GeoIP GB - United Kingdom",
       "file": "geoip-gb.json.gz",
       "id": 126,
       "name": "geoip-gb",
-      "prefixes": 55624,
-      "sha256": "af77bc5ba12c5b4e4d47ed02edcf23bf1641e2e1728d1f3aff41c89d8d392de9"
+      "prefixes": 55718,
+      "sha256": "95c857dc1629b79c135095db8bd7c9e527d725e350e524930ac45b355d13dd4f"
     },
     {
       "display_name": "GeoIP GD - Grenada",
@@ -625,32 +625,32 @@
       "file": "geoip-ge.json.gz",
       "id": 128,
       "name": "geoip-ge",
-      "prefixes": 669,
-      "sha256": "8b373834d92851c182a2ad797779094aa2805030bf791966eeed2606880d5984"
+      "prefixes": 671,
+      "sha256": "05142141a5616fd0dd7f2b26766850d2468f09c771896ca9fadc3e2cf3fe2a90"
     },
     {
       "display_name": "GeoIP GF - French Guiana",
       "file": "geoip-gf.json.gz",
       "id": 129,
       "name": "geoip-gf",
-      "prefixes": 147,
-      "sha256": "99d412ae661ffda22c7e5416ae90005a3b37a59f895827d747d011f99ad36d6b"
+      "prefixes": 144,
+      "sha256": "d8c4626a9937cf31fe6f38be13ff6c3edeeb67c4acac035ed3e2d2318bbeaff7"
     },
     {
       "display_name": "GeoIP GG - Guernsey",
       "file": "geoip-gg.json.gz",
       "id": 130,
       "name": "geoip-gg",
-      "prefixes": 329,
-      "sha256": "2ca722627aa6d63a721d9337139605c089f493c71ee2f805ebb435dd3d7cc6b1"
+      "prefixes": 331,
+      "sha256": "35eee3d3270c4be4a8d964446f6b299aca475c5b50e9fa2cc3657f7e115a173f"
     },
     {
       "display_name": "GeoIP GH - Ghana",
       "file": "geoip-gh.json.gz",
       "id": 131,
       "name": "geoip-gh",
-      "prefixes": 411,
-      "sha256": "cd43ee870d2b761b8d37651644f67477325d047a8debc49f00cf64ca0113e52f"
+      "prefixes": 410,
+      "sha256": "4f92239a93a6b09c8f8075b802654fb4e09029b1c812ecab4661acf8513f5756"
     },
     {
       "display_name": "GeoIP GI - Gibraltar",
@@ -689,8 +689,8 @@
       "file": "geoip-gp.json.gz",
       "id": 136,
       "name": "geoip-gp",
-      "prefixes": 279,
-      "sha256": "c96d43b756c3983e73db0c9aa2be04bb3029e8d5099e4acfb4000294ca2016cb"
+      "prefixes": 291,
+      "sha256": "62b5a491b25694be2986edce6faf8f4426cb8c97e01b9cca395be46e316b842b"
     },
     {
       "display_name": "GeoIP GQ - Equatorial Guinea",
@@ -705,8 +705,8 @@
       "file": "geoip-gr.json.gz",
       "id": 138,
       "name": "geoip-gr",
-      "prefixes": 2064,
-      "sha256": "0d3a348b8bd4f10f827c9a7a36afd566b8fcec27827e3b5e8cccc56124d61510"
+      "prefixes": 2065,
+      "sha256": "cf2558d8a449535b8e0b2fb097cd529f474e72c5b37238b242b3220bdcdf3419"
     },
     {
       "display_name": "GeoIP GS - South Georgia and the South Sandwich Islands",
@@ -721,16 +721,16 @@
       "file": "geoip-gt.json.gz",
       "id": 140,
       "name": "geoip-gt",
-      "prefixes": 1122,
-      "sha256": "4717b1e23134c14495700ceb646243343d22d16e3f175f1f57d430c9814e78a3"
+      "prefixes": 1178,
+      "sha256": "8c556fd95f1c9891ccc9d8a92b3dd7ddfccc5a04a81f85f78e3eeaadb9394e18"
     },
     {
       "display_name": "GeoIP GU - Guam",
       "file": "geoip-gu.json.gz",
       "id": 141,
       "name": "geoip-gu",
-      "prefixes": 158,
-      "sha256": "d682a94bd20df81bc0b70f2f1f73052c50d7a1839f892a25f0c02e50209f7c26"
+      "prefixes": 156,
+      "sha256": "929bbea5f7ffc21c5c97bef3c23f8c71523112db999e79591989a997884ffb7c"
     },
     {
       "display_name": "GeoIP GW - Guinea-Bissau",
@@ -753,24 +753,24 @@
       "file": "geoip-hk.json.gz",
       "id": 144,
       "name": "geoip-hk",
-      "prefixes": 12787,
-      "sha256": "395ad2acd99ae4594f7cef524b3f4ac8ecd835649d37119e7a8046b776f4e989"
+      "prefixes": 12810,
+      "sha256": "e0b82e184b14009196c407ff8ee9f0eee1a1eb8e5aa127ea9eaed244f2141e09"
     },
     {
       "display_name": "GeoIP HN - Honduras",
       "file": "geoip-hn.json.gz",
       "id": 145,
       "name": "geoip-hn",
-      "prefixes": 1295,
-      "sha256": "e68b7c6ed9c906111089b8eaffd1a1097e5cb873c5eb6ff8f73c29d9755994ed"
+      "prefixes": 1291,
+      "sha256": "34c36d09d38682f93687161525062aa733cbeb2b7e6f765c4eb9353e679bfd10"
     },
     {
       "display_name": "GeoIP HR - Croatia",
       "file": "geoip-hr.json.gz",
       "id": 146,
       "name": "geoip-hr",
-      "prefixes": 1148,
-      "sha256": "8cc4f7b69e336e9d65689502ef9cfc8fac5082e7e5799f2df7ea2a6c6b7f295a"
+      "prefixes": 1137,
+      "sha256": "0e046310056254b4ada986506f19f921a95bbeb7085f83f2d92b11771c1b189c"
     },
     {
       "display_name": "GeoIP HT - Haiti",
@@ -785,8 +785,8 @@
       "file": "geoip-hu.json.gz",
       "id": 148,
       "name": "geoip-hu",
-      "prefixes": 2328,
-      "sha256": "54b2e7525a625ae8e8e32aae8f907e732bdba87c8efbc3b99e076e3dc125ef76"
+      "prefixes": 2326,
+      "sha256": "36bd46bf8da5c6f0b83d469ee1afc507be22f0e7108b8529833361e20536edfe"
     },
     {
       "display_name": "GeoIP ID - Indonesia",
@@ -794,39 +794,39 @@
       "id": 149,
       "name": "geoip-id",
       "prefixes": 7100,
-      "sha256": "af1de17ca0a4543779899a27ae68c876d67be5c838f895d076e9557f46f3307b"
+      "sha256": "36caf7c6477b8f2c3cfd01394ff417ee29bc51215f3382ff795df44492e652e2"
     },
     {
       "display_name": "GeoIP IE - Ireland",
       "file": "geoip-ie.json.gz",
       "id": 150,
       "name": "geoip-ie",
-      "prefixes": 9906,
-      "sha256": "ce330b0133b5887994476788addf7abff53e7ed6e8aa0746897e54436fb02c78"
+      "prefixes": 9917,
+      "sha256": "b53a8d21d8c3a60df8e9de67ed0a04d8924496cbef3fddc056a4d5580e5e9ed9"
     },
     {
       "display_name": "GeoIP IL - Israel",
       "file": "geoip-il.json.gz",
       "id": 151,
       "name": "geoip-il",
-      "prefixes": 2899,
-      "sha256": "5ee4a8aa3535c11d7b2d70fb1ff547b0c178c9ea7d72626a024647c7afc6548e"
+      "prefixes": 2889,
+      "sha256": "9f7b6a0178d0173259211477ec24105203b018f362eae51b77ba5ccd601fb93a"
     },
     {
       "display_name": "GeoIP IM - Isle of Man",
       "file": "geoip-im.json.gz",
       "id": 152,
       "name": "geoip-im",
-      "prefixes": 565,
-      "sha256": "d743488cea98aa7eaf565d30ed924979d61108a082ebb48bc9879018381ff806"
+      "prefixes": 590,
+      "sha256": "1386b0d812aeec3530b8a71c20d03a4aba2129318434067df8b513738ca27d1b"
     },
     {
       "display_name": "GeoIP IN - India",
       "file": "geoip-in.json.gz",
       "id": 153,
       "name": "geoip-in",
-      "prefixes": 14140,
-      "sha256": "92996dcf86d98b042b307650fc4e365b5128418fda0d55df36ba52b47acb0243"
+      "prefixes": 14206,
+      "sha256": "ed39a3d61f129d970ba2b8524c601a8c53a480bd54306439b3620dfff549afa6"
     },
     {
       "display_name": "GeoIP IO - British Indian Ocean Territory",
@@ -841,16 +841,16 @@
       "file": "geoip-iq.json.gz",
       "id": 155,
       "name": "geoip-iq",
-      "prefixes": 1090,
-      "sha256": "74106856a50750c24f227f280ede82d17104f76c99397889baf11a8312b952a4"
+      "prefixes": 917,
+      "sha256": "bbdb99d72cdca064664eb48be0587369f0fa7c6992d36b5154318faa52e22b11"
     },
     {
       "display_name": "GeoIP IR - Iran",
       "file": "geoip-ir.json.gz",
       "id": 156,
       "name": "geoip-ir",
-      "prefixes": 2206,
-      "sha256": "fbcd9c6ee6cb9382f3be58fa2ddb2f10b80283baa5df0ff30c45467972571e74"
+      "prefixes": 2201,
+      "sha256": "474b0a634da463baa56d5d96adf00a79ec1ece111ded4964048f4b1fb4f0885f"
     },
     {
       "display_name": "GeoIP IS - Iceland",
@@ -865,24 +865,24 @@
       "file": "geoip-it.json.gz",
       "id": 158,
       "name": "geoip-it",
-      "prefixes": 20776,
-      "sha256": "c5c524a91124a08231fa769a24fcd0d00598d548fee1f14b780838dc17c07a97"
+      "prefixes": 20838,
+      "sha256": "c8668c4fa5d5af3fc9c211242cdcf7c4c63968a7a553a8eb5081a59e72ba96f1"
     },
     {
       "display_name": "GeoIP JE - Jersey",
       "file": "geoip-je.json.gz",
       "id": 159,
       "name": "geoip-je",
-      "prefixes": 647,
-      "sha256": "930758fe1d2f5c4b7583e45e7592d9aa8a2ed09d260e3acfc12cf7d9fa18ae2d"
+      "prefixes": 648,
+      "sha256": "d80031a62a96cc0bae07a97a2f52e1ea62579c6e668bf48f0318fa6ebbeaadb7"
     },
     {
       "display_name": "GeoIP JM - Jamaica",
       "file": "geoip-jm.json.gz",
       "id": 160,
       "name": "geoip-jm",
-      "prefixes": 274,
-      "sha256": "d53165dba7c7d5fc6af093ba1648e2818c4242ce932e11523a31cd26f54555e4"
+      "prefixes": 271,
+      "sha256": "744f9d3df2e4454464c3915347cc2a196aa2b844269107274296022e73a911b4"
     },
     {
       "display_name": "GeoIP JO - Jordan",
@@ -897,16 +897,16 @@
       "file": "geoip-jp.json.gz",
       "id": 162,
       "name": "geoip-jp",
-      "prefixes": 15392,
-      "sha256": "e35f6f3a77741a838e313fc9fa256e491cc2c32d8847c6e6c2cd7fdcc1831943"
+      "prefixes": 15427,
+      "sha256": "d518cba85a5974373815e9f731fb0883e3144cdba00714226db8df8a03f0ed7f"
     },
     {
       "display_name": "GeoIP KE - Kenya",
       "file": "geoip-ke.json.gz",
       "id": 163,
       "name": "geoip-ke",
-      "prefixes": 1070,
-      "sha256": "7a0f0aebafd8dc7b73cd4d2f6d029bc81e18863a05bd916d643ca29c32598206"
+      "prefixes": 1083,
+      "sha256": "ca5e3fc680e324f807277b4a69395009492ff73a61fe8afd11e9b6b3faa9c43b"
     },
     {
       "display_name": "GeoIP KG - Kyrgyzstan",
@@ -921,8 +921,8 @@
       "file": "geoip-kh.json.gz",
       "id": 165,
       "name": "geoip-kh",
-      "prefixes": 743,
-      "sha256": "e811d79bcce48dea479367a4ee8e4d69dd2fba93e5d5a9a8cd13a92a62c62bfb"
+      "prefixes": 737,
+      "sha256": "fd726e03c6f2bace5015cc6cd09c324ce9fdf02c423ab30bfb348a8424e4a5d2"
     },
     {
       "display_name": "GeoIP KI - Kiribati",
@@ -961,8 +961,8 @@
       "file": "geoip-kr.json.gz",
       "id": 170,
       "name": "geoip-kr",
-      "prefixes": 4062,
-      "sha256": "dfb6c961585c9199709f4eace7f3d93fb9b65887935a9226b30bafcaa0faa60a"
+      "prefixes": 4064,
+      "sha256": "e88f6e17f44b9a080d2667907fba394bb6a040f7a9bbd3e1252ebe54928a1268"
     },
     {
       "display_name": "GeoIP KW - Kuwait",
@@ -977,16 +977,16 @@
       "file": "geoip-ky.json.gz",
       "id": 172,
       "name": "geoip-ky",
-      "prefixes": 171,
-      "sha256": "0b2b0bec30957e824360e9140f94981cb08094f6cea93f63f8c00ed15368199a"
+      "prefixes": 170,
+      "sha256": "60cd563390c95c55010c5a7d35205e6d537d901a49f1888875137ffd4105a07e"
     },
     {
       "display_name": "GeoIP KZ - Kazakhstan",
       "file": "geoip-kz.json.gz",
       "id": 173,
       "name": "geoip-kz",
-      "prefixes": 1478,
-      "sha256": "1eaf6e7d600ec3255b4f604364f932b1a6fda791a81eeb7cedf86a97837f2bcf"
+      "prefixes": 1479,
+      "sha256": "5bf69ff2df94e1849c5d5fd15d64bd6c9e914fa9244ebf74a5378d6c72bafbfb"
     },
     {
       "display_name": "GeoIP LA - Laos",
@@ -1049,32 +1049,32 @@
       "file": "geoip-lt.json.gz",
       "id": 181,
       "name": "geoip-lt",
-      "prefixes": 2338,
-      "sha256": "f299eec14af52708f78ad219ac90a91774bd1c3bff7025b7b30d36f6865a0eac"
+      "prefixes": 2345,
+      "sha256": "70597c13e0c14c717c3a7ccdd978d156a5b8bf1b581eefbbcb9f0bfe386e2194"
     },
     {
       "display_name": "GeoIP LU - Luxembourg",
       "file": "geoip-lu.json.gz",
       "id": 182,
       "name": "geoip-lu",
-      "prefixes": 2065,
-      "sha256": "036d0cec47df59a9d2d96a7fdb25869deb563da249632d6013fb3e29ba7cb494"
+      "prefixes": 2074,
+      "sha256": "99899bdc48e94d73a460309341ce83a732d4493f485c1c8909c97d688e008730"
     },
     {
       "display_name": "GeoIP LV - Latvia",
       "file": "geoip-lv.json.gz",
       "id": 183,
       "name": "geoip-lv",
-      "prefixes": 1497,
-      "sha256": "877e99628aae90bcf9791887ed3fa72887556b6d948ce37580853e39a47d2a8f"
+      "prefixes": 1494,
+      "sha256": "3228f0748a9d7e4aa29e688e94505ed7080cee0aa394644f7e054763ad44e6d5"
     },
     {
       "display_name": "GeoIP LY - Libya",
       "file": "geoip-ly.json.gz",
       "id": 184,
       "name": "geoip-ly",
-      "prefixes": 190,
-      "sha256": "2b12bdc929e15bed82cb04039d6ae539e6e2ab68873cbae3b3de288e36c005d8"
+      "prefixes": 192,
+      "sha256": "6e1d7ce874c8243aedf6361cc234b1a20e40cbd4c2c0d08ba1e1a3590b2e8d5f"
     },
     {
       "display_name": "GeoIP MA - Morocco",
@@ -1082,39 +1082,39 @@
       "id": 185,
       "name": "geoip-ma",
       "prefixes": 561,
-      "sha256": "3727507b8bc6624452a71d6cc27d3a0f7eb824593fcc1a8f8b9d72db6e5dde9f"
+      "sha256": "8ddeb3e70332696309ece648be60fa49eb5d09301c137a5ed70b4ae0d7139c6f"
     },
     {
       "display_name": "GeoIP MC - Monaco",
       "file": "geoip-mc.json.gz",
       "id": 186,
       "name": "geoip-mc",
-      "prefixes": 418,
-      "sha256": "6d3f35825d38e5522a4d951b4780da586504850eda73721d3dfddb370d2e5c1d"
+      "prefixes": 419,
+      "sha256": "f751483c31a2f014a7d44ec806f805055a8ba94c1fd444bf4af944ec498ab849"
     },
     {
       "display_name": "GeoIP MD - Moldova",
       "file": "geoip-md.json.gz",
       "id": 187,
       "name": "geoip-md",
-      "prefixes": 831,
-      "sha256": "490fd12f7bcfdad0c24f9a9139b98bac4b8c153923587b79d947649557a17d87"
+      "prefixes": 825,
+      "sha256": "12b6c09cdacc99d5a6e86ebcd2f7948ff0e817b8ec6507818c30600e2c371e5c"
     },
     {
       "display_name": "GeoIP ME - Montenegro",
       "file": "geoip-me.json.gz",
       "id": 188,
       "name": "geoip-me",
-      "prefixes": 202,
-      "sha256": "80c098cbd7f7153a9e7ca95739156215ece9df05a6eae72d54d277bdb67a9573"
+      "prefixes": 203,
+      "sha256": "7b44f05330906a8fb145a3ac42aed6776e9f56802c6067beb9ec7895bac4ad9c"
     },
     {
       "display_name": "GeoIP MF - Saint Martin",
       "file": "geoip-mf.json.gz",
       "id": 189,
       "name": "geoip-mf",
-      "prefixes": 72,
-      "sha256": "be7fa5cd5a962b45fcd3fde0bc19f40f69f323c67b4fb0c13861cebdbc2b0465"
+      "prefixes": 68,
+      "sha256": "5a40d57f54c8985105a4a4af243130a0ffabd39bf34c606fe157e107f8f6d13a"
     },
     {
       "display_name": "GeoIP MG - Madagascar",
@@ -1137,8 +1137,8 @@
       "file": "geoip-mk.json.gz",
       "id": 192,
       "name": "geoip-mk",
-      "prefixes": 328,
-      "sha256": "cb321a31475687100775230dbc093044aa31ee528e9e4b7ea42d3e8069e14238"
+      "prefixes": 329,
+      "sha256": "1ff0fd6ad346caf0e6a1696d9e05127d8f050f627b9ac41143a191a045fe1d12"
     },
     {
       "display_name": "GeoIP ML - Mali",
@@ -1153,16 +1153,16 @@
       "file": "geoip-mm.json.gz",
       "id": 194,
       "name": "geoip-mm",
-      "prefixes": 495,
-      "sha256": "93a70d522658eb11e790982b026032389e35a74a9cf7ee4804430531cbb7bf14"
+      "prefixes": 494,
+      "sha256": "bcf87e28ec52f768125df1829e7ce524e41c7e5785b0ee518fc1c6c38149d277"
     },
     {
       "display_name": "GeoIP MN - Mongolia",
       "file": "geoip-mn.json.gz",
       "id": 195,
       "name": "geoip-mn",
-      "prefixes": 260,
-      "sha256": "e86e69847a2b0dae8927e91332b210ef2eae06a31e1804cdd0561f3803013c84"
+      "prefixes": 262,
+      "sha256": "93265e11dc725898d62320cd790487e068b230f6dd3c0e991554dcf7167c6a75"
     },
     {
       "display_name": "GeoIP MO - Macao",
@@ -1170,23 +1170,23 @@
       "id": 196,
       "name": "geoip-mo",
       "prefixes": 123,
-      "sha256": "19a214c2839f5fb7791190b9c1163a94eb50c7f4e689e085eea3addeb756b5d8"
+      "sha256": "358addb424c8ff668f1e14ebd9251cf4d74194d86aaa2a36939dca2b8c0ef7b0"
     },
     {
       "display_name": "GeoIP MP - Northern Mariana Islands",
       "file": "geoip-mp.json.gz",
       "id": 197,
       "name": "geoip-mp",
-      "prefixes": 46,
-      "sha256": "21784d552165a93c4608fa7ab8c3ce498b83d61fa91920a0edbb22e39517ed18"
+      "prefixes": 35,
+      "sha256": "8c9a4a730203b04c53b315b9593b7ec8d864cf12cd0ce9db55cfa7506b7a3970"
     },
     {
       "display_name": "GeoIP MQ - Martinique",
       "file": "geoip-mq.json.gz",
       "id": 198,
       "name": "geoip-mq",
-      "prefixes": 248,
-      "sha256": "f077bad6f299bbc2d0880744515feeb7db887be044fbe60ec7c40a37e2697ef5"
+      "prefixes": 254,
+      "sha256": "da65681371e64ecb1181a5f6fe42bc93e1698f6b0113d2a29b67b97bca61b52a"
     },
     {
       "display_name": "GeoIP MR - Mauritania",
@@ -1209,8 +1209,8 @@
       "file": "geoip-mt.json.gz",
       "id": 201,
       "name": "geoip-mt",
-      "prefixes": 424,
-      "sha256": "9856fa4cb9c0e57d6bfed080a0af68fc4415d674f0cc40f612025b88060919d3"
+      "prefixes": 427,
+      "sha256": "01948ffd006af7921eef35ed94eac76ffc6b0725f1f483f810d858aec4fc3479"
     },
     {
       "display_name": "GeoIP MU - Mauritius",
@@ -1218,7 +1218,7 @@
       "id": 202,
       "name": "geoip-mu",
       "prefixes": 1812,
-      "sha256": "7f68d2068eec02eb2cabf739d0714300a3dd573be0c37c300c8488e5315fb860"
+      "sha256": "439201ca488511577f2dacb1ff4900d71e88fb127aa4f2148fcb0073a28f5e74"
     },
     {
       "display_name": "GeoIP MV - Maldives",
@@ -1226,7 +1226,7 @@
       "id": 203,
       "name": "geoip-mv",
       "prefixes": 126,
-      "sha256": "4891b5942c137c484dd43d8d58666a99375b50455d9c90b0099cb864f67029b8"
+      "sha256": "cb42fee8cd6afca67b1cb5df6b7fefb8c121d2eb881a6de6ce7cb706fa89c243"
     },
     {
       "display_name": "GeoIP MW - Malawi",
@@ -1241,32 +1241,32 @@
       "file": "geoip-mx.json.gz",
       "id": 205,
       "name": "geoip-mx",
-      "prefixes": 5107,
-      "sha256": "d52820fb7159f4ac4db93248992ca4e4ec584681e2c2ba831e19446926cb001e"
+      "prefixes": 5124,
+      "sha256": "c1b1dc39ad22cf897815b8f9172c9fe0434561a1e3afa96c368a0caeac4fcc0b"
     },
     {
       "display_name": "GeoIP MY - Malaysia",
       "file": "geoip-my.json.gz",
       "id": 206,
       "name": "geoip-my",
-      "prefixes": 2957,
-      "sha256": "c6c7fcf0c1c7bcea923e580ae798ae5e077d87280da4249e1beff8263fc911a6"
+      "prefixes": 2963,
+      "sha256": "ec63ce9d5f7301fba3339c53e32dbc7e9734969862d5c88a850715c0338933df"
     },
     {
       "display_name": "GeoIP MZ - Mozambique",
       "file": "geoip-mz.json.gz",
       "id": 207,
       "name": "geoip-mz",
-      "prefixes": 203,
-      "sha256": "24adee3365e8597dcf78ba0b9680d25122d3d038a53fee70317218eb342827e1"
+      "prefixes": 204,
+      "sha256": "e412a479023a08fbee7dcf2ab83532a5c7556632460bf7fab0181bb362f2d52c"
     },
     {
       "display_name": "GeoIP NA - Namibia",
       "file": "geoip-na.json.gz",
       "id": 208,
       "name": "geoip-na",
-      "prefixes": 881,
-      "sha256": "5d176d66aa88ca0a1c0b6b9e805acd56477a9c4fe162825097157bb22165ff2d"
+      "prefixes": 880,
+      "sha256": "4d3ca01d6b26a0f328d4e20dc1b75e5fd1e3bb93e094468318768ce528409b6a"
     },
     {
       "display_name": "GeoIP NC - New Caledonia",
@@ -1281,16 +1281,16 @@
       "file": "geoip-ne.json.gz",
       "id": 210,
       "name": "geoip-ne",
-      "prefixes": 92,
-      "sha256": "9b206176203abfa11e77a732e46691d0691855e2900d5847cd2330b1d96c5899"
+      "prefixes": 93,
+      "sha256": "404ad4c39b930f30ab2d0b8e4c71b3492cee23989f85c6955b903df9eb4ab33a"
     },
     {
       "display_name": "GeoIP NF - Norfolk Island",
       "file": "geoip-nf.json.gz",
       "id": 211,
       "name": "geoip-nf",
-      "prefixes": 37,
-      "sha256": "d36c1e18dc4e3e2e9ce98e2aae4c8ef9fcb3b3d68094824b183b68ba541cf108"
+      "prefixes": 36,
+      "sha256": "bee89320cce9f51e3bed82ced37df361c5ffcdf116e6182147e39ec6198c5202"
     },
     {
       "display_name": "GeoIP NG - Nigeria",
@@ -1298,23 +1298,23 @@
       "id": 212,
       "name": "geoip-ng",
       "prefixes": 1358,
-      "sha256": "42c5ff0b696b2155ed5fd9051ef9e1a2af0f4224423873047ff52932b69da08b"
+      "sha256": "52699d284c0a351e45e4ef92ccc0d5e90f6a228958f4dd21f8373b01a6d5c2c2"
     },
     {
       "display_name": "GeoIP NI - Nicaragua",
       "file": "geoip-ni.json.gz",
       "id": 213,
       "name": "geoip-ni",
-      "prefixes": 220,
-      "sha256": "d0049c787fe90d2b80a4b92e777445feb2ad576899bc9e0ea1e2ebbf670ffaaa"
+      "prefixes": 227,
+      "sha256": "7caa4baa2fdc53b9a8e4ce8f9a3602f315b7483b5c8f9d2a53104c42b18e0250"
     },
     {
       "display_name": "GeoIP NL - The Netherlands",
       "file": "geoip-nl.json.gz",
       "id": 214,
       "name": "geoip-nl",
-      "prefixes": 27835,
-      "sha256": "c543c0689b8a2cd931641f9e4457f15f804960a651747c94db13e79a6abd3d23"
+      "prefixes": 27860,
+      "sha256": "dc5024b1abcebf83f7af648971420411b985eb78ec5eba763fd7809503c9c2f4"
     },
     {
       "display_name": "GeoIP NO - Norway",
@@ -1322,7 +1322,7 @@
       "id": 215,
       "name": "geoip-no",
       "prefixes": 4541,
-      "sha256": "eb8c093f5ca6c6bb798413a2c52a18e1e0817457b9daa6e5284d01adcc4bd7d8"
+      "sha256": "009d1f699b71b8463bddea6a4366618a91b48f143e46394ea03132bdb407072c"
     },
     {
       "display_name": "GeoIP NP - Nepal",
@@ -1330,7 +1330,7 @@
       "id": 216,
       "name": "geoip-np",
       "prefixes": 507,
-      "sha256": "25f9ee5e2632fcf87a125b3fc7acc5fc0dcd69b454462b090de3e30d4d3b9df4"
+      "sha256": "89eb4bb67bd050e4d331f9a36f3c5eb31da66a7df8cd22390540cf9d9a7fdd57"
     },
     {
       "display_name": "GeoIP NR - Nauru",
@@ -1353,8 +1353,8 @@
       "file": "geoip-nz.json.gz",
       "id": 219,
       "name": "geoip-nz",
-      "prefixes": 2723,
-      "sha256": "a29f1f81a75a8db2b4db764e2379bf98bcac1d96fe993a24cd7500aafd4ad1de"
+      "prefixes": 2729,
+      "sha256": "41d0029d037e22a037951ff42f9359934e1c460f1a8d0e6ded31d73b36fc8c06"
     },
     {
       "display_name": "GeoIP OM - Oman",
@@ -1362,23 +1362,23 @@
       "id": 220,
       "name": "geoip-om",
       "prefixes": 315,
-      "sha256": "e769a7d5870eaff7db07cbe46bc8bd3cf8c649b96a1fdc923165f3c5020f8e86"
+      "sha256": "858aa4b0be134b6e1c05ed483f5b1d95d7b3be2c46f1cd60388b64d12a83e891"
     },
     {
       "display_name": "GeoIP PA - Panama",
       "file": "geoip-pa.json.gz",
       "id": 221,
       "name": "geoip-pa",
-      "prefixes": 941,
-      "sha256": "c5344f6612d94054c333cb789a5c8d4b7fbd59622390aa03138c459129e3dd0f"
+      "prefixes": 949,
+      "sha256": "3a03eb6a3fba8b3bed18a664eb1b9fe52be327f9b66bb15ad2d05ff456650836"
     },
     {
       "display_name": "GeoIP PE - Peru",
       "file": "geoip-pe.json.gz",
       "id": 222,
       "name": "geoip-pe",
-      "prefixes": 1905,
-      "sha256": "e9b58593724841677d4b3ebb7d843e3ec0f46cfa33499b5007b3a724d782cc2b"
+      "prefixes": 1925,
+      "sha256": "35f25526997a7b0413863989462bf656bfc130ced4e7ee989916a0b88f819197"
     },
     {
       "display_name": "GeoIP PF - French Polynesia",
@@ -1393,40 +1393,40 @@
       "file": "geoip-pg.json.gz",
       "id": 224,
       "name": "geoip-pg",
-      "prefixes": 293,
-      "sha256": "6724c67cab0795023e04db6500c09051c703b7d08e3092797b223ff255859fde"
+      "prefixes": 291,
+      "sha256": "35e215869d434632ea3fc9b3cc0919cb2f09dd65354f9705058979f8a853ef96"
     },
     {
       "display_name": "GeoIP PH - Philippines",
       "file": "geoip-ph.json.gz",
       "id": 225,
       "name": "geoip-ph",
-      "prefixes": 2678,
-      "sha256": "45ddade27161eafd42ab3a2e936e0dcf4d164fb1f3cb6f2b55ada65728893249"
+      "prefixes": 2681,
+      "sha256": "b80ab5416f9ff73c2e6c3bf6b55b1ca0ec87671ce1ac7d6339503a70fd20220b"
     },
     {
       "display_name": "GeoIP PK - Pakistan",
       "file": "geoip-pk.json.gz",
       "id": 226,
       "name": "geoip-pk",
-      "prefixes": 1896,
-      "sha256": "9f134d4bd0029ff29547b6033b0f6b76410d1329b8d7a7c1b60262537d73a7e3"
+      "prefixes": 1900,
+      "sha256": "d65f682c897ea9b9034418281f08c495cc1c23051a7d6f2c1ece348a32a3f91d"
     },
     {
       "display_name": "GeoIP PL - Poland",
       "file": "geoip-pl.json.gz",
       "id": 227,
       "name": "geoip-pl",
-      "prefixes": 10887,
-      "sha256": "8ef4e0479514bf9999a06c9657f9e99b5331176ab0cbca2ae52d8c4fd77a5201"
+      "prefixes": 10912,
+      "sha256": "60431c697dded50dc7ad3d905ad3b4d979bcaff35bf35abb90c78e5a01df4e94"
     },
     {
       "display_name": "GeoIP PM - Saint Pierre and Miquelon",
       "file": "geoip-pm.json.gz",
       "id": 228,
       "name": "geoip-pm",
-      "prefixes": 46,
-      "sha256": "1b3be6c52027dedbddfc4db52a369a590b7464e9908df3cf005208379d98e87d"
+      "prefixes": 47,
+      "sha256": "3c8c94ef6faa6613da73fac9cc30c6920cb56ea3e26b59c0ffda88ebbf53a652"
     },
     {
       "display_name": "GeoIP PN - Pitcairn",
@@ -1441,24 +1441,24 @@
       "file": "geoip-pr.json.gz",
       "id": 230,
       "name": "geoip-pr",
-      "prefixes": 784,
-      "sha256": "e2f19111ba2ce46479a2094b690d0a53ccbbb6d8b132c208144bc92a812952cb"
+      "prefixes": 791,
+      "sha256": "9f33a7def49c10c0e7cccf3083735c4a410a2c4eac483bf259ce463f6f2d9e58"
     },
     {
       "display_name": "GeoIP PS - Palestinian Territory",
       "file": "geoip-ps.json.gz",
       "id": 231,
       "name": "geoip-ps",
-      "prefixes": 315,
-      "sha256": "5ca07a328f0f63d4d1ef1a5e05608fcb943695e9a041236d8e1b4cb394848b5c"
+      "prefixes": 316,
+      "sha256": "2e3e71cffe247159bd24529178673d4fde237820a19d37b12860585881ee06be"
     },
     {
       "display_name": "GeoIP PT - Portugal",
       "file": "geoip-pt.json.gz",
       "id": 232,
       "name": "geoip-pt",
-      "prefixes": 3139,
-      "sha256": "05c87e5dff2357f758387920832e6462a714ae38834af8c9715044820223e2ec"
+      "prefixes": 3146,
+      "sha256": "42d9d034a5473dd23345b03aa1ca397b0ff1046013766ed1a3625da257a09f01"
     },
     {
       "display_name": "GeoIP PW - Palau",
@@ -1473,48 +1473,48 @@
       "file": "geoip-py.json.gz",
       "id": 234,
       "name": "geoip-py",
-      "prefixes": 549,
-      "sha256": "49b9b2f83bffc4dd74cf5c82d2f9e97839ed05327b6eabf4f258167517f74c97"
+      "prefixes": 546,
+      "sha256": "a59a58a6982067fc6ec501821c3718b7ceb97ac410014d1602822a70e742a8f1"
     },
     {
       "display_name": "GeoIP QA - Qatar",
       "file": "geoip-qa.json.gz",
       "id": 235,
       "name": "geoip-qa",
-      "prefixes": 557,
-      "sha256": "0dd5bd06c13c6d2c8fade50782d1d87c63eb74418030922d0df2599cbd3b4240"
+      "prefixes": 560,
+      "sha256": "b7f4a9661516884fe25fcf88d877c6f4c48db87af11ad1548c616d88ac1dcb9d"
     },
     {
       "display_name": "GeoIP RE - Reunion",
       "file": "geoip-re.json.gz",
       "id": 236,
       "name": "geoip-re",
-      "prefixes": 282,
-      "sha256": "42e6d572dc1fbd4137927a4fcdb9333511d4c25e9cabfab414f7efe0749706a7"
+      "prefixes": 284,
+      "sha256": "7ed916711fa032e7b6233c736546a6a50d32ba042318201437e79d2d4ab25236"
     },
     {
       "display_name": "GeoIP RO - Romania",
       "file": "geoip-ro.json.gz",
       "id": 237,
       "name": "geoip-ro",
-      "prefixes": 4500,
-      "sha256": "5c874afba6e9237c1a80302a658c452f2a6e183f19c1f38e4e90d7c7eb0253b4"
+      "prefixes": 4524,
+      "sha256": "29a008b0784478e4180268e781f58623402dbad5904b506fdd042043a025a841"
     },
     {
       "display_name": "GeoIP RS - Serbia",
       "file": "geoip-rs.json.gz",
       "id": 238,
       "name": "geoip-rs",
-      "prefixes": 1441,
-      "sha256": "dcfed3c452299e1f40b008e782e9eb61f14f5a704d342f4efed465a8235942d6"
+      "prefixes": 1446,
+      "sha256": "2d672d9bc21486790a24eab00bea1eba1961480ed165a2e4b7bcffdcb99a724a"
     },
     {
       "display_name": "GeoIP RU - Russia",
       "file": "geoip-ru.json.gz",
       "id": 239,
       "name": "geoip-ru",
-      "prefixes": 15460,
-      "sha256": "ab271123dbd10c376bba02fe348bdd3c6d0f61e840c2200ce7cc7207e6da3e27"
+      "prefixes": 15447,
+      "sha256": "d7b54c17f55562ea81d9b0a6c6062c8462e4ed39cb7f75c31a43f979120550cc"
     },
     {
       "display_name": "GeoIP RW - Rwanda",
@@ -1529,8 +1529,8 @@
       "file": "geoip-sa.json.gz",
       "id": 241,
       "name": "geoip-sa",
-      "prefixes": 1847,
-      "sha256": "40af34b054ea1ed22d7cd8addce4164a8709e345484e9c384ceb8e7d0755d9ca"
+      "prefixes": 1848,
+      "sha256": "ad84bf537a8a977141f921bc35d0d86d787960035ec2bf682e402a55cb26de4b"
     },
     {
       "display_name": "GeoIP SB - Solomon Islands",
@@ -1545,32 +1545,32 @@
       "file": "geoip-sc.json.gz",
       "id": 243,
       "name": "geoip-sc",
-      "prefixes": 3395,
-      "sha256": "88e29d8b836f23c285854d68df7b3b51f32a7705067a327a3dcdd26027246c69"
+      "prefixes": 3422,
+      "sha256": "479be26360b7d18f0ab2276035d8a96ca4f95c4cf28be6c8b1f563f884887009"
     },
     {
       "display_name": "GeoIP SD - Sudan",
       "file": "geoip-sd.json.gz",
       "id": 244,
       "name": "geoip-sd",
-      "prefixes": 133,
-      "sha256": "2b45df281cc8d20e5f6ec215d58535dc240807f426c3b6280e09866229035866"
+      "prefixes": 138,
+      "sha256": "0435a66d6a2cef9ee95720db3780f7871d147ecacebb4a9774f37e3e9e03f87c"
     },
     {
       "display_name": "GeoIP SE - Sweden",
       "file": "geoip-se.json.gz",
       "id": 245,
       "name": "geoip-se",
-      "prefixes": 22903,
-      "sha256": "29471c12abf1d06b2bd114efe36ad54432482912cb86c931b0c308c14244def4"
+      "prefixes": 22898,
+      "sha256": "65d42e1c69142d62364b50070dd046c348850b172f0a9480087ff9c4175bfc06"
     },
     {
       "display_name": "GeoIP SG - Singapore",
       "file": "geoip-sg.json.gz",
       "id": 246,
       "name": "geoip-sg",
-      "prefixes": 11599,
-      "sha256": "a3573507c82af4221f0f1a8bb1b76cfcb34bf158a1d4ce7d8fa24206ea4c88ce"
+      "prefixes": 11630,
+      "sha256": "055a32428a66d8f292620239cb9b3dfe5e7fecff46b6194244fb49a5f3d2ed25"
     },
     {
       "display_name": "GeoIP SH - Saint Helena",
@@ -1585,8 +1585,8 @@
       "file": "geoip-si.json.gz",
       "id": 248,
       "name": "geoip-si",
-      "prefixes": 1181,
-      "sha256": "9de9d803f04322022165cb0299732befcdfdffdd1b2a45366674ee2e735b2573"
+      "prefixes": 1178,
+      "sha256": "ca856882e884bd0f2c7f175729aac5bef4d49fb4720bbe90e67967d309daf72a"
     },
     {
       "display_name": "GeoIP SJ - Svalbard and Jan Mayen",
@@ -1601,8 +1601,8 @@
       "file": "geoip-sk.json.gz",
       "id": 250,
       "name": "geoip-sk",
-      "prefixes": 1528,
-      "sha256": "be0442ae1128b8850108e16a3e3ebcc21424266f3bebbfdaf5f6e60136a17ae1"
+      "prefixes": 1525,
+      "sha256": "c11ca7c803f235f3e2db009969486013ed3d295cd437fb2feda31e69d363020c"
     },
     {
       "display_name": "GeoIP SL - Sierra Leone",
@@ -1617,8 +1617,8 @@
       "file": "geoip-sm.json.gz",
       "id": 252,
       "name": "geoip-sm",
-      "prefixes": 90,
-      "sha256": "4fd0475accf15630223b51d52e155051364ce2140b61869ddb69de9b2a4b1e4e"
+      "prefixes": 91,
+      "sha256": "3d180999798f68627ab989e6278c38ce268d5ffb332f474b8ba4a628bd99ef70"
     },
     {
       "display_name": "GeoIP SN - Senegal",
@@ -1665,8 +1665,8 @@
       "file": "geoip-sv.json.gz",
       "id": 258,
       "name": "geoip-sv",
-      "prefixes": 455,
-      "sha256": "b19ced6c05c305153a5677445823abe458d7a807efe5bdd2acc795b32fa05e78"
+      "prefixes": 467,
+      "sha256": "d50a7c3bbbd8fb0fc7b04c330289573ec533fd8461491b005ca73886e9a90a62"
     },
     {
       "display_name": "GeoIP SX - Sint Maarten",
@@ -1681,8 +1681,8 @@
       "file": "geoip-sy.json.gz",
       "id": 260,
       "name": "geoip-sy",
-      "prefixes": 366,
-      "sha256": "29c92be941abfb8a31741c3c2eec337e86ac2d72c8b33d1d9a1bd33ee592ebad"
+      "prefixes": 371,
+      "sha256": "9d655b1d7d216e1005d4c68c1e1c058c5ea410d290c93feb80aa368918ef491b"
     },
     {
       "display_name": "GeoIP SZ - Eswatini",
@@ -1697,8 +1697,8 @@
       "file": "geoip-tc.json.gz",
       "id": 262,
       "name": "geoip-tc",
-      "prefixes": 52,
-      "sha256": "7f3f198e8d1bcb178a6f4e55a5898c1f59f87088714abac528018df326237764"
+      "prefixes": 53,
+      "sha256": "4c7b4a66e46e926efb03ea49e5047cba2f352ac96cfdac5d2133579b9a084590"
     },
     {
       "display_name": "GeoIP TD - Chad",
@@ -1729,8 +1729,8 @@
       "file": "geoip-th.json.gz",
       "id": 266,
       "name": "geoip-th",
-      "prefixes": 2646,
-      "sha256": "82c0932d1f980b7c6b6975343c72519bb5d41313026cddd143ff2db16c35092a"
+      "prefixes": 2662,
+      "sha256": "113789d8628adb5e638c0a272515a2fac34dba6019ccde43b15e50fcad424088"
     },
     {
       "display_name": "GeoIP TJ - Tajikistan",
@@ -1761,32 +1761,32 @@
       "file": "geoip-tm.json.gz",
       "id": 270,
       "name": "geoip-tm",
-      "prefixes": 76,
-      "sha256": "0ee85d3abc040bd80ca8480f7bc852db022b378f272f2fdfddff939559fa7b5d"
+      "prefixes": 78,
+      "sha256": "8ad6b4b25e833e6f3548c3a6c6784a5654002ce1e7b55f6343c5378e88a45d7a"
     },
     {
       "display_name": "GeoIP TN - Tunisia",
       "file": "geoip-tn.json.gz",
       "id": 271,
       "name": "geoip-tn",
-      "prefixes": 199,
-      "sha256": "981e33bc79553adb6e0ea679b8ffae4a7cf62c29a7a6f215b79647abfc958c9d"
+      "prefixes": 198,
+      "sha256": "407df20889f0b59489108212930677494dbba85e449c30a066516e2dd2315fbd"
     },
     {
       "display_name": "GeoIP TO - Tonga",
       "file": "geoip-to.json.gz",
       "id": 272,
       "name": "geoip-to",
-      "prefixes": 58,
-      "sha256": "b07ed1e7f8cdab29a61312f150b69739b58b63de7f45b8bd3516589bf6a96e6f"
+      "prefixes": 59,
+      "sha256": "02ad31a6cf909825185b77d6f2c56f978e1a83700524277d12b947d76ad0b27b"
     },
     {
       "display_name": "GeoIP TR - Turkey",
       "file": "geoip-tr.json.gz",
       "id": 273,
       "name": "geoip-tr",
-      "prefixes": 4578,
-      "sha256": "cb97f0af5b55ef7ef1976aa70b2b3db74bc114bc93bb9a9cffc93ebf8e9792dc"
+      "prefixes": 4579,
+      "sha256": "260dbe6cfc104e489b35d9e1da50ed457baeda7a3ada3ac73a541df7504a4714"
     },
     {
       "display_name": "GeoIP TT - Trinidad and Tobago",
@@ -1809,32 +1809,32 @@
       "file": "geoip-tw.json.gz",
       "id": 276,
       "name": "geoip-tw",
-      "prefixes": 2960,
-      "sha256": "befdfabe5473ddbca94c645537200515207c3c9fae4a664981e66f303661b305"
+      "prefixes": 2950,
+      "sha256": "d0ca3305111270065ece0f1cbf6531b149284de4e6e5e23f6dfe067ea1eb79dd"
     },
     {
       "display_name": "GeoIP TZ - Tanzania",
       "file": "geoip-tz.json.gz",
       "id": 277,
       "name": "geoip-tz",
-      "prefixes": 381,
-      "sha256": "e4f8e71f8c0467d3a4054d07eb812459e2cc86836f3328fc93d1b859c2f64b06"
+      "prefixes": 376,
+      "sha256": "23cf5cc3e26d401722a06d40a0b688fa394f53c6562efc8c0a737607c97a0798"
     },
     {
       "display_name": "GeoIP UA - Ukraine",
       "file": "geoip-ua.json.gz",
       "id": 278,
       "name": "geoip-ua",
-      "prefixes": 5568,
-      "sha256": "d647cd8cb739f993db12fea2d178994b92ca7c0e6899d5abac7271165f5f8215"
+      "prefixes": 5566,
+      "sha256": "28f2e7e6e19d7261edb382989061dbc6b3b4d886f5e189ed174a29b9db05b8d1"
     },
     {
       "display_name": "GeoIP UG - Uganda",
       "file": "geoip-ug.json.gz",
       "id": 279,
       "name": "geoip-ug",
-      "prefixes": 289,
-      "sha256": "caefdb4eb09c0324eecf0ec03148f46e2d97e0e4c7e13acda2ebff79830f74e3"
+      "prefixes": 292,
+      "sha256": "517f86408b413b749548c49cf7e174b412dd613cc98d52697e2930843a4d78bc"
     },
     {
       "display_name": "GeoIP UM - United States Minor Outlying Islands",
@@ -1849,8 +1849,8 @@
       "file": "geoip-us.json.gz",
       "id": 281,
       "name": "geoip-us",
-      "prefixes": 152372,
-      "sha256": "bfa0d0ab3592a99b0fd03a712a9eb8642ffeac7b030411e5b75d13069c9eefb9"
+      "prefixes": 152757,
+      "sha256": "48b97665c85fe89c13c66e9f59cc069ac182e2546aa363db5bf60ab31e06a31a"
     },
     {
       "display_name": "GeoIP UY - Uruguay",
@@ -1858,15 +1858,15 @@
       "id": 282,
       "name": "geoip-uy",
       "prefixes": 348,
-      "sha256": "0e634103ebc2cda16dc58ce658b968152a4df3ce308635584b2970b06bc2276c"
+      "sha256": "58c623346297941256b9066b3a81cedb9eff889515e8b2691d1cf48c7d91b16c"
     },
     {
       "display_name": "GeoIP UZ - Uzbekistan",
       "file": "geoip-uz.json.gz",
       "id": 283,
       "name": "geoip-uz",
-      "prefixes": 578,
-      "sha256": "8ef8bfae1091468a93aad0a07957a36d512571f41210b80b58b164ec7ae14957"
+      "prefixes": 580,
+      "sha256": "99c45a7b6a3def7a95886bbeeae8a1b48fd55ac52ec2f76bc6af023bcd8bdd28"
     },
     {
       "display_name": "GeoIP VA - Vatican",
@@ -1889,16 +1889,16 @@
       "file": "geoip-ve.json.gz",
       "id": 286,
       "name": "geoip-ve",
-      "prefixes": 1240,
-      "sha256": "6ebe5932f526a7ee22831ce6a16ad4795e8dd5652cae5a56740f1f282aba3488"
+      "prefixes": 1233,
+      "sha256": "ddee431a46e59f7c9c0d4fcc7d4da3b11f592e820b006d97cda06a563890fe7a"
     },
     {
       "display_name": "GeoIP VG - British Virgin Islands",
       "file": "geoip-vg.json.gz",
       "id": 287,
       "name": "geoip-vg",
-      "prefixes": 262,
-      "sha256": "2f13af2c352ca64adc2973c500c3ffe8661f6806358c920690bf2aeed734c851"
+      "prefixes": 282,
+      "sha256": "c3f99d6a5195ee9d0a686f3ddcfa3f041f41da4a22e4509640e5c492cd416388"
     },
     {
       "display_name": "GeoIP VI - U.S. Virgin Islands",
@@ -1906,23 +1906,23 @@
       "id": 288,
       "name": "geoip-vi",
       "prefixes": 276,
-      "sha256": "b62fd7d35fc265fcaf9965917b7dc3f4e6b666a22eb926b232bff83a12278969"
+      "sha256": "5f339e24163fceb567f5954554c47353b9d136d731f13a06c220c3c3c12facb4"
     },
     {
       "display_name": "GeoIP VN - Vietnam",
       "file": "geoip-vn.json.gz",
       "id": 289,
       "name": "geoip-vn",
-      "prefixes": 2309,
-      "sha256": "66f4bba672e36ebdf9ff55fbcbaebad72ebe3b142addb26cf65058ac5ddb78e4"
+      "prefixes": 2307,
+      "sha256": "d0548eab2901bfeeaac04c6e73f51b7f44c59e1b1c61c3d799902cb2dd9d4f67"
     },
     {
       "display_name": "GeoIP VU - Vanuatu",
       "file": "geoip-vu.json.gz",
       "id": 290,
       "name": "geoip-vu",
-      "prefixes": 77,
-      "sha256": "8c9ca70c6ea4e4adb1652e16014cfd2a424e152c6c6518666223b6219f1e3d39"
+      "prefixes": 76,
+      "sha256": "5270128a5194aed3bf6f7c0d3913b1aa500fbe2cf07c8d8d8d1e112607a54c50"
     },
     {
       "display_name": "GeoIP WF - Wallis and Futuna",
@@ -1945,48 +1945,48 @@
       "file": "geoip-xk.json.gz",
       "id": 293,
       "name": "geoip-xk",
-      "prefixes": 283,
-      "sha256": "770d282faf1be6f7e8ad0a2cca970c2dfb977c77b657297aae5a7045a6372815"
+      "prefixes": 290,
+      "sha256": "e87927ca5e917ee2785ac50c10a932bb08e44e865a72e588aa9d4e55316682d8"
     },
     {
       "display_name": "GeoIP YE - Yemen",
       "file": "geoip-ye.json.gz",
       "id": 294,
       "name": "geoip-ye",
-      "prefixes": 134,
-      "sha256": "0cc0c3126ff11f8ef65b6fc99b2921c94658deb0a1c927895e802b4878b83926"
+      "prefixes": 135,
+      "sha256": "b39eeb48c3e445b37521cb7b4b9698b9965292261d8f1d85c7e23d8c7c1ee3bf"
     },
     {
       "display_name": "GeoIP YT - Mayotte",
       "file": "geoip-yt.json.gz",
       "id": 295,
       "name": "geoip-yt",
-      "prefixes": 96,
-      "sha256": "d69142bdda421579b99a88510ae6bf33599db7cadd5a64d1b0180980fae641c1"
+      "prefixes": 97,
+      "sha256": "ac1f12708c6cdb70ea307853797ad94dfd36601d70064c2ca561a27845a51b9c"
     },
     {
       "display_name": "GeoIP ZA - South Africa",
       "file": "geoip-za.json.gz",
       "id": 296,
       "name": "geoip-za",
-      "prefixes": 5409,
-      "sha256": "6060e75f9115e60bfdee5b6ab649c197380e3ae6d800d789f1079ece9a24bcf9"
+      "prefixes": 5423,
+      "sha256": "4b5b81164e215e37638574b01b9d5fe1958a61d9e7f8706753723ef160ee8c8c"
     },
     {
       "display_name": "GeoIP ZM - Zambia",
       "file": "geoip-zm.json.gz",
       "id": 297,
       "name": "geoip-zm",
-      "prefixes": 253,
-      "sha256": "8e9d49bd9e1b3f29e20f3fff86fb77c0ca2c1f6ff293f23f8b3dd8178dd8180f"
+      "prefixes": 262,
+      "sha256": "af2bf30bde50cb259066e797f544db7bcbecda1ad975278210dbae7b6d6191bc"
     },
     {
       "display_name": "GeoIP ZW - Zimbabwe",
       "file": "geoip-zw.json.gz",
       "id": 298,
       "name": "geoip-zw",
-      "prefixes": 299,
-      "sha256": "7dc78bb1323e69b3772cd97e445ace9274fd9634b1a79bb982c20229248b6080"
+      "prefixes": 303,
+      "sha256": "6a5afa445f5fc19509975f5b21b9f78b1c49a86d7539685caebb0fce13ba7316"
     }
   ],
   "version": 2
