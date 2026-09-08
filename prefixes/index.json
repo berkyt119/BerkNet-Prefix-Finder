@@ -1,7 +1,7 @@
 {
   "geoip": {
     "index": "geoip/index.json",
-    "prefixes": 775416,
+    "prefixes": 774837,
     "services": 248
   },
   "groups": [
@@ -9,25 +9,25 @@
       "file": "groups/ai.json.gz",
       "id": 11,
       "name": "AI",
-      "prefixes": 2691,
+      "prefixes": 2651,
       "services": 7,
-      "sha256": "d7fe55308342527a82ead1a6c931c8842e3ce6bf4c95517751c56f0af865e663"
+      "sha256": "83acf493ed41c48daf83d1400f846d8d0f856d4e6eb391a799eaec8ed554046b"
     },
     {
       "file": "groups/socials.json.gz",
       "id": 13,
       "name": "Socials",
-      "prefixes": 7830,
+      "prefixes": 7948,
       "services": 5,
-      "sha256": "3839f94057261dd77342bbe1fc9fbbbc5707b3194137aac7a4ca341e2bd1bcba"
+      "sha256": "297141a2ceb6860c3112ea8e4b9e841b3124c3b41d9f56dbe649d9b46492b183"
     },
     {
       "file": "groups/ungrouped.json.gz",
       "id": null,
       "name": "ungrouped",
-      "prefixes": 7755,
+      "prefixes": 8148,
       "services": 5,
-      "sha256": "e6fc72ebbb731294d121802ce097f88138af95f7969b393ff31b93b42e2d0875"
+      "sha256": "94b9b0908f24b9ab73f44c8294f8c674da671e66f041d8e803f11fdb9be2f75b"
     }
   ],
   "prefix_status_filter": "all",
